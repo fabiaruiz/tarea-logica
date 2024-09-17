@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+pulidora
+6
+650000
+7
+taladro
+6
+368000
+5
+total
+16
+pulidora+taladro
+6
+1
+4
+desc
+10
+total*0.17
+5
+1
+4
+edad
+7
+0
+1
+7
+edad=45
+4
+1
+19
+'no tiene desuento'
+4
+1
+20
+'el total es:',total
+13
+4
+1
+25
+'tiene descuento del 17%'
+6
+1
+5
+total
+10
+total-desc
+4
+1
+19
+'el total es',total
+13
+1

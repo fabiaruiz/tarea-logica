@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+azucar
+5
+65000
+3
+sal
+5
+40000
+5
+total
+10
+azucar+sal
+6
+1
+4
+desc
+10
+total*0.06
+5
+1
+4
+edad
+7
+0
+1
+7
+edad>30
+4
+1
+19
+'no tiene desuento'
+4
+1
+20
+'el total es:',total
+13
+4
+1
+24
+'tiene descuento del 6%'
+6
+1
+5
+total
+10
+total-desc
+4
+1
+19
+'el total es',total
+13
+1

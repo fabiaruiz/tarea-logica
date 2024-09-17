@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+chorizo
+4
+5000
+9
+longaniza
+4
+7500
+5
+total
+17
+chorizo+longaniza
+6
+1
+4
+desc
+10
+total*0.08
+5
+1
+4
+edad
+7
+0
+1
+7
+edad>15
+4
+1
+19
+'no tiene desuento'
+4
+1
+20
+'el total es:',total
+13
+4
+1
+24
+'tiene descuento del 8%'
+6
+1
+5
+total
+10
+total-desc
+4
+1
+19
+'el total es',total
+13
+1

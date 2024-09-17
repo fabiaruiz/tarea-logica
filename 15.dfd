@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+viagra
+5
+25000
+8
+vaselina
+5
+12000
+5
+total
+15
+viagra+vaselina
+6
+1
+4
+desc
+9
+total*0.2
+5
+1
+4
+edad
+7
+0
+1
+7
+edad>63
+4
+1
+19
+'no tiene desuento'
+4
+1
+20
+'el total es:',total
+13
+4
+1
+25
+'tiene descuento del 20%'
+6
+1
+5
+total
+10
+total-desc
+4
+1
+19
+'el total es',total
+13
+1
